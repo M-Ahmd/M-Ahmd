@@ -1,52 +1,74 @@
-<h1 align="center">👋 Hi there, I'm Muhammed Ahmed</h1>
-<h3 align="center">💻 Computer Science Student at Azhar University| C++ & Java Developer | Android Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Muhammed%20Ahmed&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Systems%20Enthusiast&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Deep+Diving+into+OS+%26+Compilers;Crafting+High-Performance+C%2B%2B+Code;Always+Learning%2C+Always+Shipping." />
+  </a>
+
+</div>
+
+<br />
+
+<h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC3&center=true&vCenter=true&width=500&lines=Computer+Science+Student;C%2B%2B+%26+Java+Programmer;Android+App+Developer;Lifelong+Learner+%26+Problem+Solver" />
+ I'm a <strong>Computer Science Student at Al-Azhar University</strong> with a passion for what happens <em>under the hood</em>. <br>
+ While others stop at "It works", I dig deeper to ask <strong>"How does it work?"</strong>. <br>
+ Currently focused on <strong>Backend Engineering</strong> (Spring Boot / Node.js) and mastering <strong>Systems Programming</strong> (Linux, C++).
 </p>
-
----
-
-### 🧠 Core Subjects in Computer Science:
-- Data Structures and Algorithms  
-- Operating Systems  
-- Computer Networks  
-- Databases and SQL  
-- Software Engineering  
-- Object-Oriented Programming (OOP)  
-- Computer Architecture  
-- Artificial Intelligence  
-- Web and Mobile Development  
-- Compilers & Automata  
-- Design Patterns  
-
----
-
-### 🧰 Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmd&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ahmd&theme=tokyonight" width="400"/>
-</p>
-
----
-
-### 💡 Fun Fact:
-> I enjoy solving real-world problems with elegant code and building useful Android apps from scratch.
-
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<h3 align="left">🛠️ The Arsenal</h3>
+
+<div align="center">
+
+| **Core & Systems** | **Backend & Web** | **Tools & DevOps** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cpp,c,java,python" width="180" /> | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres" width="220" /> | <img src="https://skillicons.dev/icons?i=git,github,linux,docker,bash" width="220" /> |
+
+</div>
+
+<br>
+
+---
+
+<h3 align="left">⚡ Current Focus & Adventures</h3>
+
+- 🔭 **I’m currently building:** A custom **Linux Shell** from scratch using C to understand process management.
+- 🌱 **I’m currently learning:** Compiler Design, Distributed Systems, and Advanced Database Internals (PostgreSQL).
+- 👯 **I’m looking to collaborate on:** Open source C++ projects or heavy Backend systems.
+- 💬 **Ask me about:** Why `malloc` is magic, how Spring Boot handles requests, or solving LeetCode Hards.
+
+---
+
+<h3 align="left">📈 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmd&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmd&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ahmd&theme=react&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub><em>"Talk is cheap. Show me the code." — Linus Torvalds</em></sub>
+</div>
