@@ -53,20 +53,25 @@
 - 💬 **Ask me about:** Why `malloc` is magic, how Spring Boot handles requests, or solving LeetCode Hards.
 
 ---
-
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmd&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmd&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmd&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ahmd&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ahmd&theme=react&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=M-Ahmd&theme=tokyonight&hide_border=false" alt="streak" />
 </div>
 
+---
+
+<div align="center">
+  <sub><em>"Talk is cheap. Show me the code." — Linus Torvalds</em></sub>
+</div>
 ---
 
 <div align="center">
