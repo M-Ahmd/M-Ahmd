@@ -34,10 +34,3 @@ I am a software engineer and a 4th-year CS student with a deep passion for **Low
 | **Tools** | Git, Docker, Linux, Vim, Postman |
 
 ---
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ahmd&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=M-Ahmd&theme=radical&hide_border=true" height="150" />
-</div>
